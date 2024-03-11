@@ -1,5 +1,8 @@
 ## 🌐 Meu Site, Minhas Redes: Conectando através do HTML e CSS! 💻✨
 
+![ProjetoSocialGIF](https://github.com/phpablo/projeto-social/assets/13618424/b050d7bf-dd24-4654-9166-b6aa72d88fb8)
+
+
 
 Oi, pessoal!
 
